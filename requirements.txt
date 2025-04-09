@@ -1,3 +1,14 @@
 Pillow==10.2.0
 pandas==2.2.1
-openpyxl==3.1.2 
+openpyxl==3.1.2
+python-docx==1.1.0
+PyPDF2==3.0.1
+markdown==3.5.2
+html2text==2024.2.26
+PyYAML==6.0.1
+docx2pdf==0.1.8
+pdf2docx==0.5.6
+weasyprint==60.2
+py2app==0.28.7
+striprtf==0.0.26
+python-docx2rtf==0.1.0 
