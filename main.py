@@ -19,7 +19,7 @@ class FileConverterApp:
     def __init__(self, root):
         self.root = root
         self.root.title("File Format Converter")
-        self.root.geometry("670x210")
+        self.root.geometry("680x300")
         self.root.configure(bg="#f0f0f0")
         
         # Supported conversions
