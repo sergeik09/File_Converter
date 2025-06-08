@@ -1,4 +1,4 @@
-# File Format Converter
+2# File Format Converter
 
 A simple GUI application for converting files between different formats. This application supports various image and data file format conversions.
 
